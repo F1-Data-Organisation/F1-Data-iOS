@@ -1,0 +1,15 @@
+/*
+  Localizable.strings
+  F1 Data
+
+  Created by Florian DAVID on 18/09/2024.
+  
+*/
+
+"title-home" = "Home";
+"title-list" = "2024 Meetings";
+"intro-home" = "Whether you're an enthusiast or an expert, dive behind the scenes and experience every Grand Prix as if you were there.";
+
+"+contentF1" = "More F1® content";
+"+appsF1" = "More apps from F1®";
+"+worldF1" = "The World of F1®";

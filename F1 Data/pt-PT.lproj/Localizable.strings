@@ -1,0 +1,15 @@
+/*
+  Localizable.strings
+  F1 Data
+
+  Created by Florian DAVID on 18/09/2024.
+  
+*/
+
+"title-home" = "Inicial";
+"title-list" = "Temporada 2024";
+"intro-home" = "Quer seja um fã ou um especialista, mergulhe nos bastidores e viva cada Grande Prémio como se estivesse lá.";
+
+"+contentF1" = "Mais conteúdos F1®";
+"+appsF1" = "Mais aplicações de F1®";
+"+worldF1" = "O mundo da F1®";

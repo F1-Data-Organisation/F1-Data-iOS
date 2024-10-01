@@ -1,0 +1,15 @@
+/*
+  Localizable.strings
+  F1 Data
+
+  Created by Florian DAVID on 18/09/2024.
+  
+*/
+
+"title-home" = "Accueil";
+"title-list" = "Meetings 2024";
+"intro-home" = "Que vous soyez passionné ou expert, plongez dans les coulisses de la compétition et vivez chaque Grand Prix comme si vous y étiez.";
+
+"+contentF1" = "Plus de contenu F1®";
+"+appsF1" = "Plus d'applications F1®";
+"+worldF1" = "Le monde de la F1®";
